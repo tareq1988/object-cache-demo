@@ -1,7 +1,7 @@
 <?php
 /**
- * Plugin Name: Books Demo
- * Description: A plugin for books
+ * Plugin Name: Object Cache Books Demo
+ * Description: A demo plugin to demonstrate persistent object caching with WordPress
  * Plugin URI: https://tareq.co
  * Author: Tareq Hasan
  * Author URI: https://tareq.co
